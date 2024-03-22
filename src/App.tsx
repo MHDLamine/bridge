@@ -21,7 +21,7 @@ function App() {
 
       <iframe title="insert-BoulelSante" style={{width:"100%"}} height="500"
       src="https://app.powerbi.com/view?r=eyJrIjoiYWM5YzExNWYtODExNi00MGMzLWExZDQtNjVmNDY0MjA1NjhhIiwidCI6ImJmZTY0YzY0LWIwY2UtNDJiZC04MDlhLWE4ODlhMjJhZGQwOSJ9" 
-      frameborder="0" allowFullScreen="true"></iframe>
+     ></iframe>
       </div>
      
      
